@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  background-color: transparent;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+:root {
+  display: flex;
+  justify-content: space-between !important;
+  min-height: 100vh;
+}
+main {
+  background: black;
+  flex: 1 0 auto;
+}
